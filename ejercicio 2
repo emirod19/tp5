@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Hello programadores</title>
+        <link rel="stylesheet" type="text/css" href="./stylejr2.css">
+    </head>
+    <body>
+        <nav>
+            <ul>
+                <li><a href="#"> capitulo 1</a></li>
+                <li><a href="#">capitulo 2</a></li>
+                <li><a href="#">capitulo final</a></li>
+            </ul>
+        </nav>
+        <section>capitulo1</section>
+        <section>capitulo2</section>
+        <section>capitulo final</section>
+    </body>
+</html>
+
+///stylejr2.css file
+
+ul{
+    list-style-type: none;
+    margin: 0px;
+    padding:0px;
+    background-color: #800080;
+    float:;
+}
+li{
+    background-color:aqua;
+    float:left;
+}
+li a{
+    display: block;
+    color:black;
+    text-align: center;
+    padding: 20px 20px; 
+    text-decoration: none;
+}
+li a: hover{
+    background-colour:green;
+    color:blue;
+}
