@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Hello programadores</title>
+        <link rel="stylesheet" type="text/css" href="./style.css">
+    </head>
+    <body>
+        <h1>este es el ejercicio 1</h1>
+        <p>este es un párrafo</p>
+    </body>
+</html>
+
+///style.css file
+
+title{
+    color:blueviolet;
+    font size:45px;
+    font type: comic sans;
+}
+h1{
+    color:green;
+    font size: 24px;   
+}
+p{
+    color:cyan;
+    font size:16px;
+}
