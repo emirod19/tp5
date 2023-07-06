@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<head>
+    <title>formulario de login</title>
+    <link rel="stylesheet" type="text/css" href="./stylejr3.css">
+</head>
+<body>
+    <section>
+    <form>
+        Nombre: <input type="text" Nombre: "Nombre" id:"Nombre" placeholder="Ingrese su Nombre:" >
+        <br>
+        USERNAME:<input type="text" Usuario: "usuario" id:"Usuario" placeholder="Ingrese su Nombre de Usuario:" >
+        <br>
+        E-mail:<input type="text" Nombre: "Email" id:"email" placeholder="Ingrese su Correo electronico:" >
+        <br>
+        password:<input type="password" Nombre: "Password" id:"Password" placeholder="Ingrese su Password:" >
+        <br>
+        <input type="button" value="Registrar">
+    </form>
+</body>
+
+stylejr3.css
+form{
+    padding: 25px;
+    margin: 50px;
+}
